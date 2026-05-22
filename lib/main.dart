@@ -524,3 +524,4 @@ class SettingsScreen extends StatelessWidget {
     );
   }
 }
+// Taşma kontrolleri ve son arayüz rötüşları yapıldı
