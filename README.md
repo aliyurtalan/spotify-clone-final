@@ -19,4 +19,3 @@ Projede derste işlenen widget'lar kullanılmıştır;
  `Navigator` ve `MaterialPageRoute`
 
  Ekran Görüntüleri
-*(Not: Teslimden önce GitHub'a yüklediğiniz ekran görüntülerini buraya sürükleyip bırakın)*
