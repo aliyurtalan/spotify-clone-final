@@ -19,3 +19,6 @@ Projede derste işlenen widget'lar kullanılmıştır;
  `Navigator` ve `MaterialPageRoute`
 
  Ekran Görüntüleri
+<img width="653" height="962" alt="spotify ana" src="https://github.com/user-attachments/assets/7c6633ee-65a7-40cc-9cd2-79b9a05bf1bc" />
+<img width="654" height="951" alt="detay" src="https://github.com/user-attachments/assets/80613c5f-1a6b-4fd7-9feb-86132eb24a2c" />
+<img width="645" height="943" alt="ayarlar" src="https://github.com/user-attachments/assets/c804ab8b-1fe5-4c36-a495-0c4fc0fa74f9" />
